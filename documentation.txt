@@ -1,0 +1,5 @@
+Sistem ini berbasis web. 
+Yg berguna untuk Surat Pemberitahuan Pajak Terhutang kepada wajib pajak.
+SPPT itu diberitahu melalui sms gateway (jd sistem web ini terhubung dengan sms gateway)
+
+Setelah pemberitahuan tersebut sampai ke wajib pajak melalui sms, wajib pajak menyelesaikan tagihannya, di dlm sms tersebut tertera link untuk masuk ke akun wajib pajak dan melanjutkan pembayaran via midtrans
